@@ -66,6 +66,6 @@ The Dashboard will provide interactive user interface .
 
 
 ## 🔗 Links
-[Go to my Portfolio](https://sakshi7890696.github.io/tejaswani.github.io/)()
+[Go to my Portfolio](https://sakshi7890696.github.io/tejaswani.github.io/)
 
 [Go to my LinkedIn](https://www.linkedin.com/in/tejaswani-choudhary-13a9bb22a)
